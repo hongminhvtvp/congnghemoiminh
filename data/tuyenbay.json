@@ -1,0 +1,142 @@
+[
+    {
+        "matuyenbay":"HCM-HN",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"Hà NỘI"
+
+    },
+    {
+        "matuyenbay":"HN-HCM",
+        "noidi":"HÀ NỘI",
+        "noiden":"TP. HỒ CHÍ MINH"
+
+    },
+    {
+        "matuyenbay":"HCM-DN",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"ĐÀ NẴNG"
+
+    },
+    {
+        "matuyenbay":"HN-DN",
+        "noidi":"HÀ NỘI",
+        "noiden":"ĐÀ NẴNG"
+
+    },
+    {
+        "matuyenbay":"DN-HN",
+        "noidi":"ĐÀ NẴNG",
+        "noiden":"Hà NỘI"
+
+    },
+    {
+        "matuyenbay":"HCM-NTR",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"NHA TRANG"
+
+    },
+    {
+        "matuyenbay":"NTR-HCM",
+        "noidi":"NHA TRANG",
+        "noiden":"TP. HỒ CHÍ MINH"
+
+    },
+    {
+        "matuyenbay":"HCM-PHQ",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"PHÚ QUỐC"
+
+    },
+    {
+        "matuyenbay":"PHQ-HCM",
+        "noidi":"PHÚ QUỐC",
+        "noiden":"HỒ CHÍ MINH"
+
+    },
+    {
+        "matuyenbay":"HCM-VH",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"VINH"
+
+    },
+    {
+        "matuyenbay":"VH-HCM",
+        "noidi":"VINH",
+        "noiden":"TP. HỒ CHÍ MINH"
+
+    },{
+        "matuyenbay":"NTR-VH",
+        "noidi":"VINH",
+        "noiden":"NHA TRANG"
+
+    },
+    {
+        "matuyenbay":"HCM-PK",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"PLEIKU"
+
+    },
+    {
+        "matuyenbay":"PK-HCM",
+        "noidi":"PLEIKU",
+        "noiden":"TP. HỒ CHÍ MINH"
+
+    },
+    {
+        "matuyenbay":"HN-PK",
+        "noidi":"HÀ NỘI",
+        "noiden":"PLEIKU"
+
+    },
+    {
+        "matuyenbay":"HCM-CB",
+        "noidi":"TP. HỒ CHÍ MINH",
+        "noiden":"CÁT BI"
+
+    },
+    {
+        "matuyenbay":"CB-HCM",
+        "noidi":"CÁT BI",
+        "noiden":"TP. HỒ CHÍ MINH"
+
+    },
+    {
+        "matuyenbay":"CB-DN",
+        "noidi":"CÁT BI",
+        "noiden":"ĐÀ NẴNG"
+
+    },
+    {
+        "matuyenbay":"DN-CB",
+        "noidi":"ĐÀ NẴNG",
+        "noiden":"CÁT BI"
+
+    },
+    {
+        "matuyenbay":"HN-PHQ",
+        "noidi":"HÀ NỘI",
+        "noiden":"PHÚ QUỐC"
+
+    },
+    {
+        "matuyenbay":"PHQ-HN",
+        "noidi":"PHÚ QUỐC",
+        "noiden":"HÀ NỘI"
+
+    },
+    {
+        "matuyenbay":"PHQ-DN",
+        "noidi":"PHÚ QUỐC",
+        "noiden":"ĐÀ NẴNG"
+
+    },
+    {
+        "matuyenbay":"DN-PHQ",
+        "noidi":"ĐÀ NẴNG",
+        "noiden":"PHÚ QUỐC"
+
+    }
+
+    
+
+]

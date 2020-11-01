@@ -1,0 +1,75 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="/style/css/bootstrap-4.3.1-dist/css/anhnen.css">
+    <link rel="stylesheet" href="/style/css/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <script src="/style/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <style>
+             header{
+                 margin-top: 0px;
+             }
+             #htrai{
+                 text-decoration: none;
+                 direction: inherit;
+             }
+
+             .bodytong{
+                width: auto;
+                height: 600px;
+                background:url('/style/images/trangtru.jpg') no-repeat 0px 0px;
+	            background-size: cover;
+	            font-family: 'Open Sans', sans-serif;
+	            background-attachment: fixed;
+                background-position: center;
+            };
+            
+    </style>
+</head>
+<body>
+        <div class="bodytong">
+
+                <header>
+
+                        <% include header %>
+                </header>
+        
+        
+          
+                <section> 
+                       <div>
+                            <h2><p style="text-align: center; color: white;">Đăng Nhập </p></h2>
+            
+                            <div class="container" > 
+                               
+                              <form class="form-horizontal" method="POST" action="xldangnhap" style="padding-left: 400px;">
+                                  <div class="form-group">
+                                    <label class="control-label col-sm-2" for="username">UserName:</label>
+                                    <div class="col-sm-6">
+                                      <input type="text" class="form-control" id="UserName" name="username" placeholder="Enter username" >
+                                    </div>
+                                  </div>
+                                  <div class="form-group">
+                                    <label class="control-label col-sm-2" for="password">Password:</label>
+                                    <div class="col-sm-6">          
+                                      <input type="password" class="form-control" id="password" name="password" placeholder="Enter password" >
+                                    </div>
+                                  </div>    
+                                 
+                                  <div class="form-group">
+                                    
+                                    <div class="col-sm-2">          
+                                        <button type="submit" class="btn btn-primary">Submit</button>
+                                    </div>
+                                  </div>    
+                              </form>
+                        </div>
+                </section>
+        
+        
+        
+            <footer style="margin-top:100px; margin-bottom: 0px; text-align: center;">
+                    <% include footer %>
+            </footer>
+        </div>
+</body>
+</html>

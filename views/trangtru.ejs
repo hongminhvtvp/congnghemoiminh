@@ -1,0 +1,89 @@
+<html>
+<head>
+        <link rel="stylesheet" href="/style/css/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+        <script src="/style/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+        <style>
+            .bodytong{
+                width: auto;
+                height: 600px;
+                background:url('/style/images/trangtru.jpg') no-repeat 0px 0px;
+	            background-size: cover;
+	            font-family: 'Open Sans', sans-serif;
+	            background-attachment: fixed;
+                background-position: center;
+            };
+            
+            #menutrangtru{
+                margin-top: 0px;
+                margin-left: 30px;
+                margin-right: 30px;
+            };
+           
+            #htrai{
+                float: left;
+                height: 100px;
+              
+            };
+            .noidung{
+                height: 400px;
+                border: solid 1 pix black;
+            };
+         
+         
+        </style>
+</head>
+
+<body >
+       <div class="bodytong"> 
+
+
+            <div id="htrai">
+                   <img class="hoasen" src="/style/images/Vietnam-Airlines-logo.png" style=" height:100; width: 130;" >
+                   <span style="color: white;"><a href="/home" style="color: tomato;">Vietnam-Airlines</a> |&nbsp;Liên Hệ:18008198  &nbsp;| &nbsp;<a href="/home/dangky">Đăng Ký</a>| &nbsp; <a href="/home/dangnhap">Đăng Nhập</a></span>
+             </div>
+            
+     
+            <div id="bodytrangtru" >
+                 <nav id="menutrangtru" class="navbar navbar-expand-lg navbar-light bg-light">
+                         <a class="navbar-brand" href="#">Home</a>
+                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                           <span class="navbar-toggler-icon"></span>
+                         </button>
+                       
+                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                           <ul class="navbar-nav mr-auto">
+                             <li class="nav-item active">
+                               <a class="nav-link" href="/home/datvemaybay">Đặt Vé <span class="sr-only">(current)</span></a>
+                             </li>
+                           
+                             <li class="nav-item active">
+                               <a class="nav-link " href="/home/dskh" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                 Xem thông tin vé
+                               </a>
+                             </li>
+                             <li class="nav-item active">
+                               <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">CN1</a>
+                             </li>
+                           </ul>
+                           <form class="form-inline my-2 my-lg-0">
+                             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                           </form>
+                         </div>
+                       </nav>
+     
+     
+     
+            </div>
+            <div class="noidung">
+                       
+            </div>
+            <div style="text-align: center;">
+                   <% include footer %>
+            </div>
+       </div>
+</body>
+<footer >
+    
+</footer>
+</html>

@@ -1,0 +1,28 @@
+[
+
+    {
+        "makh":123,
+        "tenkh":"minh",
+        "cmnd":"1234567",
+        "email":"minhle@gmail.com",
+        "diachi":"vĩnh phúc",
+        "gioitinh":"nam",
+        "sdt":"160354398",
+        "TaiKhoan":
+        {
+            "username":"leminh",
+            "password":"12345678"
+        }
+        
+
+    },
+    {
+        "makh":234,
+        "tenkh":"anh",
+        "cmnd":"1387632",
+        "email":"anhvan@gmail.com",
+        "diachi":"Long An",
+        "gioitinh":"nam",
+        "sdt":"0987657822"
+    }
+]
